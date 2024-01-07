@@ -1,0 +1,1 @@
+export const summaryExemplo = `alef de jesus santos, isso é uma transcrição lorem de tudo isso allsls teste de alguma coisa pode acreditar iso 20023 é uma onda bolsomiion`;
